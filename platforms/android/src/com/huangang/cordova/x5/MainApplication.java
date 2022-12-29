@@ -1,7 +1,6 @@
 package com.huangang.cordova.x5;
 
 import android.util.Log;
-
 import com.tencent.smtt.export.external.TbsCoreSettings;
 import com.tencent.smtt.sdk.QbSdk;
 import com.tencent.smtt.sdk.TbsListener;
@@ -10,7 +9,6 @@ import java.util.HashMap;
 public class MainApplication extends android.app.Application {
     private static final String TAG = "TbsMainApplication";
     private boolean isInitTbs;
-    private static final int REQUEST_CODE_CONTACT = 101;
 
     @Override
     public void onCreate() {

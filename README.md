@@ -16,7 +16,9 @@
 
 ### 当前版本
 
-com.tencent.tbs:tbssdk:44226
+内核:46140    
+sdk:44153     
+获取内核的[方法](https://mp.weixin.qq.com/s/SQ5y3n_yM2iIBYX0hx-PmA)     
 
 ## 感谢
 
