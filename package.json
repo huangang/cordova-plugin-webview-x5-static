@@ -1,0 +1,37 @@
+{
+  "name": "@huangang/cordova-plugin-webview-x5-static",
+  "version": "0.4.0",
+  "description": "Changes the default WebView to x5",
+  "cordova": {
+    "id": "cordova-plugin-webview-x5-static",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangang/cordova-plugin-webview-x5-static.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "webview",
+    "x5"
+  ],
+  "author": "haohetao@gmail.com",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/huangang/cordova-plugin-webview-x5-static/issues"
+  },
+  "homepage": "https://github.com/huangang/cordova-plugin-webview-x5-static",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=5.2.0"
+    }
+  ]
+}
