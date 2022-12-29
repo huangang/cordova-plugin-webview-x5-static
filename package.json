@@ -33,5 +33,9 @@
       "name": "cordova-plugman",
       "version": ">=5.2.0"
     }
-  ]
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
